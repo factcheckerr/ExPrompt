@@ -6,5 +6,6 @@ demands fewer resources than other stance classification methods and can server 
 
 ```
 cd [dataset_name]
+python3 stance_detection_using_[LLM_name].py
 
 ```
