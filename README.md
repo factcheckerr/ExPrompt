@@ -5,4 +5,5 @@ demands fewer resources than other stance classification methods and can server 
 
 ```
 cd [dataset_name]
+
 '''
