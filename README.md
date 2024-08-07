@@ -1,4 +1,3 @@
-# ExPrompt
 ![exprompt-high-resolution-logo-black-transparent](https://github.com/user-attachments/assets/236166c4-b1c2-40a1-b611-450d11f5891b)
 
 
